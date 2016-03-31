@@ -32,6 +32,4 @@ Version: 1.41
 - [US UI](https://ui61us.maxymiser.com/)
 - [Demo UI](https://demo.maxymiser.org/)
 
-Feel free to contact me for any feedback
-
-<alex.kachura@maxymiser.com>
+Not maintained
